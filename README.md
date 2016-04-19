@@ -6,3 +6,8 @@
 
 Uma Guia da Estilo poderosa que segue as diretrizes de design de material da Google
 para o aplicativo [OutSourcr](https://github.com/augustopedro/outsourcr-styleguide).
+
+# License
+OutSourcr is licensed under MIT.
+
+View the license file [here](https://github.com/augustopedro/outsourcr-styleguide/blob/master/LICENSE)
