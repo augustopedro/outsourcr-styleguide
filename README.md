@@ -4,7 +4,7 @@
 ![AMU](https://github.com/augustopedro/outsourcr-styleguide/blob/master/outsourcr.png)
 ---
 
-Uma Guia da Estilo poderosa que segue as diretrizes de design de material da Google
+Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
 para o aplicativo [OutSourcr](https://github.com/augustopedro/outsourcr-styleguide).
 
 # License
