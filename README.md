@@ -8,6 +8,19 @@
 Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
 para o aplicativo [OutSourcr](https://github.com/augustopedro/outsourcr-styleguide).
 
+# To-Do
+#### Guia de Estilo
+- [x] Escolher Guia de Estilo modelo
+- [ ] Estudar [Guia de Estilo modelo](https://www.google.com/design/spec/material-design/introduction.html)
+- [ ] Criar nova Guia de Estilo
+
+#### Prototipação
+- [ ] Tela de login web
+- [ ] Tela inicial web
+- [ ] Tela de cadastro web
+- [ ] Tela inicial mobile
+- [ ] Tela de cadastro mobile
+
 # License
 OutSourcr is licensed under MIT.
 
