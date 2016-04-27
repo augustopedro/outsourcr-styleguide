@@ -11,15 +11,15 @@ para o aplicativo [OutSourcr](https://github.com/augustopedro/outsourcr-stylegui
 # To-Do
 #### Guia de Estilo
 - [x] Escolher Guia de Estilo modelo
-- [ ] Estudar [Guia de Estilo modelo](https://www.google.com/design/spec/material-design/introduction.html)
+- [x] Estudar [Guia de Estilo modelo](https://www.google.com/design/spec/material-design/introduction.html)
 - [ ] Criar nova Guia de Estilo
 
 #### Prototipação
-- [ ] Tela de login web
-- [ ] Tela inicial web
-- [ ] Tela de cadastro web
-- [ ] Tela inicial mobile
-- [ ] Tela de cadastro mobile
+- [ ] Tela de login para o sistema na versão web
+- [ ] Tela inicial para o sistema na versão web, para cada perfil de usuário
+- [ ] Tela de cadastro para o sistema na versão web
+- [ ] Tela inicial para o sistema na versão mobile, para cada perfil de usuário
+- [ ] Tela de cadastro para o sistema na versão mobile
 
 # License
 OutSourcr is licensed under MIT.
