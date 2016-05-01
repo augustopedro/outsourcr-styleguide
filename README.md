@@ -6,7 +6,7 @@
 ---
 
 Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
-para o aplicativo [trampOn](https://github.com/augustopedro/outsourcr-styleguide). Para visualizá-la, clique [aqui](http://augustopedro.github.io/outsourcr-styleguide/)
+para o aplicativo [trampOn](https://github.com/augustopedro/trampOn-styleguide). Para visualizá-la, clique [aqui](http://augustopedro.github.io/outsourcr-styleguide/)
 
 # To-Do
 #### Guia de Estilo
