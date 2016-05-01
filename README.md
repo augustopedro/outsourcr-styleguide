@@ -13,12 +13,12 @@ para o aplicativo [trampOn](https://github.com/augustopedro/trampOn-styleguide).
 #### Guia de Estilo
 - [x] Escolher Guia de Estilo modelo
 - [x] Estudar [Guia de Estilo modelo](https://www.google.com/design/spec/material-design/introduction.html)
-- [ ] Criar nova Guia de Estilo
+- [x] Criar nova Guia de Estilo
 
 #### Prototipação
-- [ ] Tela de login para o sistema na versão web
-- [ ] Tela inicial para o sistema na versão web, para cada perfil de usuário
-- [ ] Tela de cadastro para o sistema na versão web
+- [x] Tela de login para o sistema na versão web
+- [x] Tela inicial para o sistema na versão web, para cada perfil de usuário
+- [x] Tela de cadastro para o sistema na versão web
 - [ ] Tela inicial para o sistema na versão mobile, para cada perfil de usuário
 - [ ] Tela de cadastro para o sistema na versão mobile
 
