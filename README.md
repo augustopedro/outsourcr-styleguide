@@ -4,7 +4,8 @@
 
 ![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon.png)
 ![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon2.png)
-    ![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon3.png)
+![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon3.png)
+![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon4.png)
 ---
 
 Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
