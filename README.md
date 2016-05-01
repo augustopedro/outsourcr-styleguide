@@ -2,7 +2,7 @@
 [![Gitter](https://badges.gitter.im/augustopedro/outsourcr-styleguide.svg)](https://gitter.im/augustopedro/outsourcr-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![apm](https://img.shields.io/badge/%20styleguide%20quality-awesome-green.svg)]()
 
-![AMU](https://github.com/augustopedro/outsourcr-styleguide/blob/master/outsourcr.png)
+![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon.png)
 ---
 
 Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
