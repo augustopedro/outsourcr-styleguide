@@ -18,8 +18,8 @@ para o aplicativo [trampOn](https://github.com/augustopedro/trampOn-styleguide).
 - [x] Tela de login para o sistema na versão web
 - [x] Tela inicial para o sistema na versão web, para cada perfil de usuário
 - [x] Tela de cadastro para o sistema na versão web
-- [ ] Tela inicial para o sistema na versão mobile, para cada perfil de usuário
-- [ ] Tela de cadastro para o sistema na versão mobile
+- [x] Tela inicial para o sistema na versão mobile, para cada perfil de usuário
+- [x] Tela de cadastro para o sistema na versão mobile
 
 # License
 OutSourcr is licensed under MIT.
