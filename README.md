@@ -1,5 +1,5 @@
-[![apm](https://img.shields.io/apm/l/vim-mode.svg?maxAge=2592000)](https://github.com/augustopedro/outsourcr-styleguide/blob/master/LICENSE)
-[![Gitter](https://badges.gitter.im/augustopedro/outsourcr-styleguide.svg)](https://gitter.im/augustopedro/outsourcr-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![apm](https://img.shields.io/apm/l/vim-mode.svg?maxAge=2592000)](https://github.com/augustopedro/trampon-styleguide/blob/master/LICENSE)
+[![Gitter](https://badges.gitter.im/augustopedro/trampon-styleguide.svg)](https://gitter.im/augustopedro/trampon-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![apm](https://img.shields.io/badge/%20styleguide%20quality-awesome-green.svg)]()
 
 ![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon.png)
@@ -21,7 +21,16 @@ para o aplicativo [trampOn](https://github.com/augustopedro/trampOn-styleguide).
 - [x] Tela inicial para o sistema na versão mobile, para cada perfil de usuário
 - [x] Tela de cadastro para o sistema na versão mobile
 
+Feito com :heart: utilizando a ferramenta [NinjaMock](https://ninjamock.com/)
+
+# Autores
+- Gabriel Silas
+- [Igor Octaviano](https://github.com/igoroctaviano)
+- Leandro Vinicius
+- [Pedro Augusto](https://github.com/augustopedro)
+- [Wagner Santos](https://github.com/wagoid)
+
 # License
-OutSourcr is licensed under MIT.
+trampOn is licensed under MIT.
 
 View the license file [here](https://github.com/augustopedro/outsourcr-styleguide/blob/master/LICENSE)
