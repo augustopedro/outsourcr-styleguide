@@ -1,4 +1,4 @@
-[![apm](https://img.shields.io/apm/l/vim-mode.svg?maxAge=2592000)](https://github.com/augustopedro/trampon-styleguide/blob/master/LICENSE)
+[![cc](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://github.com/augustopedro/trampon-styleguide/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/augustopedro/trampon-styleguide.svg)](https://gitter.im/augustopedro/trampon-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![apm](https://img.shields.io/badge/%20styleguide%20quality-awesome-green.svg)]()
 
@@ -31,6 +31,8 @@ Feito com :heart: utilizando a ferramenta [NinjaMock](https://ninjamock.com/)
 - [Wagner Santos](https://github.com/wagoid)
 
 # License
-trampOn is licensed under MIT.
+trampOn is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
 View the license file [here](https://github.com/augustopedro/outsourcr-styleguide/blob/master/LICENSE)
+
+![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
