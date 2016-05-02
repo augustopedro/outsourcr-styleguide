@@ -2,7 +2,7 @@
 [![Gitter](https://badges.gitter.im/augustopedro/trampon-styleguide.svg)](https://gitter.im/augustopedro/trampon-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![apm](https://img.shields.io/badge/%20styleguide%20quality-awesome-green.svg)]()
 
-![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/trampon.png)
+![AMU](https://github.com/augustopedro/trampOn-styleguide/blob/master/Logo/trampon.png)
 ---
 
 Uma Guia de Estilo poderosa que segue as diretrizes de design de material da Google
