@@ -33,6 +33,6 @@ Feito com :heart: utilizando a ferramenta [NinjaMock](https://ninjamock.com/)
 # License
 trampOn is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
-View the license file [here](https://github.com/augustopedro/outsourcr-styleguide/blob/master/LICENSE)
+See the license legal code [here](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
 ![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
